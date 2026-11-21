@@ -9,6 +9,10 @@ Validator von BillingEngine geprüft (Schema, EN-16931-Regeln und XRechnung-Rege
 CII-Syntax, ohne Fehler). Sie eignen sich als Testdaten für eigene Software, zum Vergleichen mit
 eigenen Dateien und zum Lernen, wie eine E-Rechnung aufgebaut ist.
 
+Alle Dateien gibt es auch auf der Website, mit Erklärungen und häufigen Fragen:
+[E-Rechnungsbeispiel](https://www.billingengine.com/de/examples/e-rechnungsbeispiel). Dazu fertig
+ausgefüllte Rechnungen, Angebote, Quittungen und mehr: [Beispiele](https://www.billingengine.com/de/examples).
+
 ## Dateien
 
 | Datei | Zeigt | Besonderheit |
@@ -62,6 +66,11 @@ business invoice without VAT (§ 19 UStG), a cancellation invoice and an invoice
 without postal code and city. All data is fictional. The files were created with
 [BillingEngine](https://www.billingengine.com/en) and checked with its validator (schema, EN 16931
 and XRechnung rules, no errors). See the table above for what each file shows.
+
+The files are also on the website, with explanations and frequently asked questions:
+[e-invoice example](https://www.billingengine.com/en/examples/e-invoice-example). There are more
+filled-in documents such as invoices, quotes and receipts under
+[examples](https://www.billingengine.com/en/examples).
 
 ## Lizenz / License
 
